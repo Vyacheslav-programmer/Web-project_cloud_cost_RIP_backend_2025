@@ -8,13 +8,13 @@
 
 ## Ветки проекта:
 
-- **frontend-design** - Лабораторная 1: Дизайн и верстка (Django SSR)
+- **ssr-design** - Лабораторная 1: Дизайн и верстка (Django SSR)
 - **database-orm** - Лабораторная 2: База данных и ORM
 - **rest-api** - Лабораторная 3: REST API
 - **auth-sessions** - Лабораторная 4: Аутентификация и сессии
 
 ## Фронтенд репозиторий:
-Web-project_cloud_cost_RIP_frontend_2025
+[Web-project_cloud_cost_RIP_frontend_2025](https://github.com/Vyacheslav-programmer/Web-project_cloud_cost_RIP_frontend_2025)
 
 ## Технологии:
 - Python/Django
@@ -28,4 +28,4 @@ Web-project_cloud_cost_RIP_frontend_2025
 Сравнение тарифов облачных провайдеров (AWS, Google Cloud, Azure, Яндекс.Облако, СберОблако, VK Cloud).
 
 ## Структура:
-Каждая лабораторная работа находится в отдельной ветке с соответствующими файлами в папках Lab1-Lab4.
+Каждая лабораторная работа находится в отдельной ветке с соответствующими файлами.
