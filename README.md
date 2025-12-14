@@ -14,7 +14,7 @@
 - **auth-sessions** - Лабораторная 4: Аутентификация и сессии
 
 ## Фронтенд репозиторий:
-[Web-project_cloud_cost_RIP_frontend_2025](https://github.com/Vyacheslav-programmer/Web-project_cloud_cost_RIP_frontend_2025)
+[web-project_cloud_cost_RIP_frontend_2025](https://github.com/Vyacheslav-programmer/web-project_cloud_cost_RIP_frontend_2025)
 
 ## Технологии:
 - Python/Django
