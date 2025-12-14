@@ -14,7 +14,7 @@
 - **auth-sessions** - Лабораторная 4: Аутентификация и сессии
 
 ## Фронтенд репозиторий:
-https://github.com/Vyacheslav-programmer/rip-frontend-2025
+Web-project_cloud_cost_RIP_frontend_2025
 
 ## Технологии:
 - Python/Django
@@ -29,8 +29,3 @@ https://github.com/Vyacheslav-programmer/rip-frontend-2025
 
 ## Структура:
 Каждая лабораторная работа находится в отдельной ветке с соответствующими файлами в папках Lab1-Lab4.
-
-## Документация:
-- **ТЗ** - Техническое задание
-- **Диаграммы** - ER-диаграммы, диаграммы классов и др.
-
